@@ -593,7 +593,6 @@ qqline(model.6$residuals, datax=FALSE, distribution=qnorm,
 cbind ("MLR Model 5" = mae.5, "MLR Model 6" = mae.6)
 
 
-
 #------------------------------------------------------------------
 #XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #------------------------------------------------------------------
